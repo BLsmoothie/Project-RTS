@@ -59,7 +59,7 @@ A versatile, well-rounded faction with a focus on powerful units, healing, and d
 * **Flight School (Air):**
     * **Unit:** Mounted Scouts - Very fast, unarmed air units for scouting.
 
-#### Tier 2 - Mid-Tier Units & Upgrades
+#### Tier 2 - Mid-Tier Units, Upgrades, & Siege
 
 * **Barracks (Melee):**
     * **Unit:** Crusaders - Heavier and stronger than Footmen. Unlocked via a `Training Regimen` upgrade.
@@ -67,6 +67,8 @@ A versatile, well-rounded faction with a focus on powerful units, healing, and d
     * **Unit:** Marksmen - Upgraded versions of Hunters with longer range and higher damage. Unlocked via a `Precision` upgrade.
 * **Flight School (Air):**
     * **Unit:** Sky Knights - Mid-tier air units equipped with bows. Unlocked via a `Aerial Combat Training` upgrade.
+* **Siege Workshop (Siege):**
+    * **Unit:** Ballista - A mid-range, anti-armor unit for battlefield support.
 
 #### Tier 3 - High-Tier & Elite Units
 
@@ -76,6 +78,7 @@ A versatile, well-rounded faction with a focus on powerful units, healing, and d
     * **Unit:** Arcane Archers - High-tier ranged units that fire magical arrows that pierce armor.
 * **Celestial Beacon (Tech Building):** Produces the ultimate air unit.
     * **Unit:** Solar Angels - The ultimate air unit, dealing immense magical damage to both ground and air targets.
+* **Divine Catapult (Unit):** A slow, powerful, high-tier siege weapon that deals area-of-effect damage to break up enemy formations. This unit requires a `Siege Workshop` to be built and trained.
 
 #### Unit Upgrades
 
