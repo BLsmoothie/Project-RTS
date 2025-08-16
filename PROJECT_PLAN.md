@@ -76,7 +76,7 @@ A versatile, well-rounded faction with a focus on powerful units, healing, and d
 #### Tier 3 - High-Tier & Elite Units
 * **Order of the Sun (Tech Building):** Produces the ultimate melee unit.
     * **Unit:** Paladin - An elite melee unit with high damage and a unique ability to briefly buff nearby units.
-* **Arcane Spires (Tech Building):** Produces the ultimate ranged unit.
+* **Arcane Spires (Tech Building)::** Produces the ultimate ranged unit.
     * **Unit:** Arcane Archers - High-tier ranged units that fire magical arrows that pierce armor.
 * **Celestial Beacon (Tech Building):** Produces the ultimate air unit.
     * **Unit:** Solar Angels - The ultimate air unit, dealing immense magical damage to both ground and air targets.
@@ -147,3 +147,111 @@ An engineering and defense-focused faction, relying on heavy armor, powerful sie
     * **Volatile Rounds** (Cannoneers): A passive upgrade that gives their shots a chance to cause a small explosion on impact, dealing a small amount of area-of-effect damage to nearby enemies.
     * **Static Aura** (Artificer): A passive ability that creates an aura around the Artificer, slightly slowing the attack speed of all nearby enemy units.
     * **Flamethrower Overload** (Siege Tank): An active ability that temporarily increases the range and damage of the tank's flamethrower.
+
+---
+
+### The Dark Elf Conclave
+
+A shadowy faction that focuses on stealth, speed, and powerful but fragile units. They master dark magic and assassination.
+
+#### Main Building Tiers
+* **Tier 1:** Shadow Sanctum
+* **Tier 2:** Shadow Keep
+* **Tier 3:** Oblivion Spire
+
+#### Tier 1 - Foundations & Low-Tier Units
+* **Assassins' Guild (Melee):**
+    * **Unit:** Shadow Stalkers - Fast melee units with a passive ability to turn invisible when not attacking.
+* **Coven (Ranged):**
+    * **Unit:** Dark Archers - Basic ranged units. Their arrows inflict a temporary poison effect that slows enemies.
+* **Shadow Spire (Specialty/Tech):**
+    * **Unit:** Witch - A basic caster that can inflict curses on enemy units to reduce their armor or movement speed.
+
+#### Tier 2 - Mid-Tier Units, Upgrades, & Siege
+* **Assassins' Guild (Melee):**
+    * **Unit:** Bladedancers - Extremely fast, high-damage melee units with low health.
+* **Coven (Ranged):**
+    * **Unit:** Shadow Casters - Mid-tier ranged units that cast curses to temporarily reduce enemy unit armor and damage.
+* **Shadow Spire (Specialty/Tech):**
+    * **Unit:** Mind Flayer - A mid-tier specialty unit that can temporarily mind-control a single enemy unit, forcing it to fight for you.
+* **Plague Workshop (Siege):**
+    * **Unit:** Bone Catapult - A mid-range siege unit that hurls corrosive sludge, damaging enemy armor.
+
+#### Tier 3 - High-Tier & Elite Units
+* **Assassins' Guild (Melee):**
+    * **Unit:** Executioners - The elite melee unit. They deal bonus damage to enemy heroes and high-tier units.
+* **Coven (Ranged):**
+    * **Unit:** Soul Reapers - The elite ranged unit. Their scythes can hit multiple enemies and inflict a powerful bleeding effect.
+* **Shadow Spire (Specialty/Tech):**
+    * **Unit:** Necromancer - The ultimate specialty unit. They can resurrect fallen units from both factions.
+* **Oblivion Spire (Tech Building):** Produces the ultimate air unit.
+    * **Unit:** Void Drake - A powerful air unit with a magical breath attack that slows and damages enemies.
+* **Siege Golem (Unit):** A high-tier, lumbering siege unit. Its primary function is to lay down corruption fields that damage buildings and units over time. This unit requires a `Plague Workshop` to be built and trained.
+
+#### Unit Upgrades
+* **General Upgrades (Dark Altar):**
+    * `Poisoned Blades`: Increases the damage of all melee units.
+    * `Shadow Weaving`: Increases the armor of all units.
+    * `Vile Enchantments`: Increases the attack speed of all ranged units.
+* **Unit-Specific Upgrades (Abilities & Specializations):**
+    * `Backstab`: A passive ability for Shadow Stalkers that grants a bonus to their first attack when invisible.
+    * `Blood Frenzy`: A passive ability for Bladedancers that increases their attack speed as their health gets lower.
+    * `Curse of Weakness`: An active ability for Shadow Casters that temporarily disables an enemy unit's special abilities.
+    * `Summoning Master`: An active ability for Sorcerers that allows them to summon a more powerful creature.
+    * `Soul Harvest`: A passive ability for Soul Reapers that makes their attacks return a small amount of health.
+    * `Raise Dead`: An active ability for Necromancers that resurrects a small group of fallen infantry units.
+    * `Unstable Corrosion`: An active ability for Bone Catapults that allows them to fire an extra-damaging projectile that also slows units in the impact area.
+
+---
+
+### The Vampiric Horde
+
+A relentless faction that relies on overwhelming numbers, life-draining abilities, and powerful transformations.
+
+#### Main Building Tiers
+* **Tier 1:** Blood Spire
+* **Tier 2:** Vampiric Keep
+* **Tier 3:** Throne of Blood
+
+#### Tier 1 - Foundations & Low-Tier Units
+* **Carrion Pit (Melee):**
+    * **Unit:** Ghouls - The basic, inexpensive melee unit. They gain a temporary boost to their attack speed after killing an enemy unit.
+* **Blood Crypt (Ranged):**
+    * **Unit:** Blood Archers - Basic ranged units. Their arrows inflict a bleeding effect that damages enemies over time.
+* **Fleshcrafters' Den (Specialty/Tech):**
+    * **Unit:** Bat Swarm - A fast-moving worker unit. They can gather resources and have a passive ability to repair friendly units in a small radius.
+
+#### Tier 2 - Mid-Tier Units, Upgrades, & Siege
+* **Carrion Pit (Melee):**
+    * **Unit:** Bloodfiends - A mid-tier, fast melee unit with a powerful life-draining attack.
+* **Blood Crypt (Ranged):**
+    * **Unit:** Ghoul Throwers - A ranged unit that throws plague-infested corpses, dealing area-of-effect damage to enemies.
+* **Fleshcrafters' Den (Specialty/Tech):**
+    * **Unit:** Plague Doctor - A mid-tier support unit that can heal and buff allied units, and also inflict a powerful disease on enemies.
+* **Pestilence Workshop (Siege):**
+    * **Unit:** Mortar - A mid-range, area-of-effect unit that hurls explosive projectiles.
+
+#### Tier 3 - High-Tier & Elite Units
+* **Carrion Pit (Melee):**
+    * **Unit:** Vampire Lords - The ultimate melee unit. They have very high health and armor, and their life-draining attack is incredibly powerful.
+* **Blood Crypt (Ranged):**
+    * **Unit:** Blood Reapers - The elite ranged unit. Their scythes can hit multiple enemies and inflict a powerful bleeding effect that deals damage over time.
+* **Fleshcrafters' Den (Specialty/Tech):**
+    * **Unit:** Bone Golem - The ultimate specialty unit. A slow, incredibly durable unit that can temporarily boost the armor of nearby units.
+* **Throne of Blood (Tech Building)::** Produces the ultimate air unit.
+    * **Unit:** Bat Rider - A fast-flying unit that can drop explosive bat bombs on enemies.
+* **Siege Trebuchet (Unit):** A high-tier, lumbering siege unit. Its projectiles inflict a powerful plague that damages buildings and units over time. This unit requires a `Pestilence Workshop` to be built and trained.
+
+#### Unit Upgrades
+* **General Upgrades (Pestilence Workshop):**
+    * `Blood-Infused Armor`: Increases the armor of all ground units.
+    * `Carrion Rush`: Increases the movement speed of all melee units.
+    * `Infected Ammunition`: Increases the damage of all ranged units.
+* **Unit-Specific Upgrades (Abilities & Specializations):**
+    * `Swarm`: An active ability for Ghouls that summons a small group of additional Ghouls for a short time.
+    * `Infection`: A passive ability for Blood Archers that gives their arrows a chance to infect enemies, causing them to deal less damage.
+    * `Plague Cloud`: An active ability for Plague Doctors that creates a temporary cloud that heals allies and damages enemies.
+    * `Essence Drain`: A passive ability for Vampire Lords that greatly increases the amount of life they drain from each attack.
+    * `Blood Ritual`: An active ability for Blood Reapers that allows them to instantly drain a large amount of life from a single enemy unit, healing themselves and other nearby friendly units.
+    * `Plague Aura`: A passive ability for Plague Wagons that slows and damages nearby enemy units.
+    * `Explosive Bats`: An upgrade for Bat Riders that allows them to drop a powerful bomb that deals area-of-effect damage.
